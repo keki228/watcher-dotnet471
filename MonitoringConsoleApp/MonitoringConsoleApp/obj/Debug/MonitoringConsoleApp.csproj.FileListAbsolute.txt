@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2015\Projects\MonitoringConsoleApp\MonitoringConsoleApp\bin\Debug\MonitoringConsoleApp.exe.config
+c:\users\user\documents\visual studio 2015\Projects\MonitoringConsoleApp\MonitoringConsoleApp\bin\Debug\MonitoringConsoleApp.exe
+c:\users\user\documents\visual studio 2015\Projects\MonitoringConsoleApp\MonitoringConsoleApp\bin\Debug\MonitoringConsoleApp.pdb
+c:\users\user\documents\visual studio 2015\Projects\MonitoringConsoleApp\MonitoringConsoleApp\bin\Debug\Renci.SshNet.dll
+c:\users\user\documents\visual studio 2015\Projects\MonitoringConsoleApp\MonitoringConsoleApp\bin\Debug\Renci.SshNet.xml
+c:\users\user\documents\visual studio 2015\Projects\MonitoringConsoleApp\MonitoringConsoleApp\obj\Debug\MonitoringConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\MonitoringConsoleApp\MonitoringConsoleApp\obj\Debug\MonitoringConsoleApp.exe
+c:\users\user\documents\visual studio 2015\Projects\MonitoringConsoleApp\MonitoringConsoleApp\obj\Debug\MonitoringConsoleApp.pdb
